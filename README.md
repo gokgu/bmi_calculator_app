@@ -1,2 +1,2 @@
-# bmi_calculator_app
-bmi_calculator_app
+# bmi_calculator_flutter_app
+bmi_calculator_flutter_app
